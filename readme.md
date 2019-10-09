@@ -14,7 +14,7 @@ Got a monthly report *\*\*\*COUGH\*\*\** ***P&L*** *\*\*\*COUGH\*\*\** that you 
 ### Dynamic SQL Connections
 Even better than wiring up a query to pull your data: Wiring up a dynamic query with variables. Microsoft hasn't made this easy or clean, but man it can be useful for some awesome models.
 
-## Useful Function Uses
+## Useful Uses of Useful Function
 
 ### Lookups
 Ok. So there are somewhere in the ballpark of 10 metric-tons' worth of ways to do lookups. Let's break the most important ones down:
