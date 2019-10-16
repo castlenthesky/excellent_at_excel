@@ -48,7 +48,7 @@ RANK  --> ***?!?!?!***
 Sometimes it is nice to know the rank of an item among a subset of other similar items. For exampe: I have the monthly sales of a given set of products spread across various areas of the business or within different geographic regions. I don't only want to know which product is the largest overall, but the largest in a given region and product category. Thankfully, we can do this with the `SUMPRODUCT` function alone. Check out the example file.
 
 ## 05. Data Connections
-OK. You know what really rustles my jimmies? Having to access some system, download a file, open that file, copy the data, and THEN past it into my analyses. WE LIVE IN THE 21st CENTURY! [JUST MAKE A DATA CONNECTION!](https://github.com/castlenthesky/excellent_at_excel/blob/master/05.%20Data%20Connections.xlsx)
+OK. You know what really rustles my jimmies? Having to access some system, download a file, open that file, copy the data, and THEN paste it into my analyses. WE LIVE IN THE 21st CENTURY! [JUST MAKE A DATA CONNECTION!](https://github.com/castlenthesky/excellent_at_excel/blob/master/05.%20Data%20Connections.xlsx)
 
 ### Basic SQL Connections
 Have a monthly report *\*\*\*COUGH\*\*\** ***P&L*** *\*\*\*COUGH\*\*\** that you need to create with data you source from your corporate database? Monthly variances to breakdown? Wire Excel up to your database. Push `Refresh` on the Data ribbon and be done with it!
