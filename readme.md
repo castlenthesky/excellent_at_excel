@@ -1,6 +1,6 @@
 # Excellent at Excel
 
-So, you want to "*get good*" at Excel. Congratulations. This is a list of some shortcuts and formulas that are going to set you on the path of being most excellent and Excel modeling. Example files are attached within this repo. If you have any unique uses of formulas or advance tips, drop me a line over in the _______ section of this repo. 
+So, you want to "*get good*" at Excel. Congratulations. This is a list of some shortcuts and formulas that are going to set you on the path of being most excellent and Excel modeling. Example files are attached within this repo. If you have any unique uses of formulas or advance tips, drop me a line over in the [issues](https://github.com/castlenthesky/excellent_at_excel/issues) section of this repo. 
 
 Based on the fact you are using github, I am assuming you have a working knowledge of Excel. If that's not the case, check out LinkedIn's [Excel 2016 Essential Training](https://www.linkedin.com/learning/excel-2016-essential-training/welcome) course and come back after.
 
