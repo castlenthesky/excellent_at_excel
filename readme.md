@@ -60,7 +60,7 @@ Sometimes it is nice to know the rank of an item among a subset of other similar
 
 ## 05. Charting
 
-Bridge charts are not the most fun thing in the world to build, and Excel doesn't have a built-in template. This file has a template which you can use to take the pain away.
+Bridge charts are not the most fun thing in the world to build, and Excel 2003 doesn't have a built-in template. If you business lives in the stone age and your're using Excel 2003, get a new job. If you want a horizontal waterfall, which modern versions of Excel still don't include, this file has a template which you can use to take the pain away.
 
 Bullet charts are awesome, but Excel doesn't have one built in. Use this template.
 [Check out the example file](https://github.com/castlenthesky/excellent_at_excel/blob/master/05.%20Charting.xlsx?raw=true).
@@ -79,7 +79,7 @@ Start using Power Query to aggregate your data into a model for quick and easy a
 
 ### Basic SQL Connections
 
-Have a monthly report \*\*\*\*COUGH\*\*\*\* **_P&L_** \*\*\*\*COUGH\*\*\*\* that you need to create with data you source from your corporate database? Monthly variances to breakdown? Wire Excel up to your database. Push `Refresh` on the Data ribbon and be done with it!
+Have a monthly report (like a P&L) that you need to create with data you source from your corporate database? Monthly variances to breakdown? Wire Excel up to your database. Push `Refresh` on the Data ribbon and be done with it!
 
 ### Dynamic SQL Connections
 
